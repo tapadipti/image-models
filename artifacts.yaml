@@ -11,8 +11,8 @@ image-classifier-modell:
   description: This model is used to classify images of different objects submitted
     by users. This version of the model has an accuracy of 92%.
   labels:
-  - image classification
   - Random Forest
+  - image classification
   - sklearn
   path: .mlem/model/image-classifier-model
   type: model
