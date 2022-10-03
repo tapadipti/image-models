@@ -1,2 +1,2 @@
 # image-models
-Yes skip studio
+Last commit
