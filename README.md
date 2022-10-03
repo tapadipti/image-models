@@ -1,2 +1,2 @@
 # image-models
-No skip studio
+Yes skip studio
